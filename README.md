@@ -20,7 +20,7 @@ O sistema permite ao usuário inserir um valor de temperatura e escolher as unid
 Primeiro, clone este repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/temp-converter.git
+git clone https://github.com/IcaroSenaDev/temp-converter.git
 cd temp-converter
 ```
 
